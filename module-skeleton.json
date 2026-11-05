@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-reporting-dart-desktop",
+  "capabilityKey": "liberusoftware/real-estate-portals-reporting",
+  "presentation": "dart-desktop",
+  "package": "module_real_estate_portals_reporting_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-portals-reporting.md",
+  "presentationPlan": "projects/real-estate/features/real-estate-portals-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
